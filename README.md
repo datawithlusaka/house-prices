@@ -39,4 +39,8 @@ The project originated from a house price dataset on Kaggle, Where the used data
 The Family house has proved to be more sought after having a high demand in the market. They double the number of flats which closely follow. It also boasts 58.5% of the total housing market making them a sought-after property.
 This makes it both a lucrative and also a saturated market in the future. The flats, Upper Portion, and Lower Portion also have a large demand in middle or working-class cities like Karachi.
 
+![Houses By Property Type](https://github.com/datawithlusaka/house-prices/blob/main/Images/houses_by_property.jpg)
+
+This shows the number of non-family houses in the market. It is being a residential area. Karachi has the majority of the houses. It is also fair to assume that it may be the most populous with non-Family residents. It also shows that Lahore is a balanced city having both the upper and working class together.
+
 
