@@ -55,3 +55,8 @@ Due to its large area in Marla. The farmhouse is an expensive property and is th
 
 Karachi and Islamabad are at the top of the list with high rental prices. It indicates that the housing market in these cities is high and will grow for the foreseeable future. These cities have mostly been dominated by flats which indicates the high number of working-class individuals.
 Lahore is the ideal place for people looking forward to settling. This is evident since none of their properties is up for rent. The area is only concerned with permanent residents. Lahore seems to be concentrated in families as they only offer houses for sale.
+
+![Rental Prices](
+
+Most costly houses are 4,5 and 6-bedroom houses and seem to be in demand.
+![Cost by bedrooms](https://github.com/datawithlusaka/house-prices/blob/main/Images/Cost_by_bedrooms.jpg)
