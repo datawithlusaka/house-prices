@@ -43,4 +43,10 @@ This makes it both a lucrative and also a saturated market in the future. The fl
 
 This shows the number of non-family houses in the market. It is being a residential area. Karachi has the majority of the houses. It is also fair to assume that it may be the most populous with non-Family residents. It also shows that Lahore is a balanced city having both the upper and working class together.
 
+![Houses by City](https://github.com/datawithlusaka/house-prices/blob/main/Images/houses_by_City.jpg)
+
+Lahore is a residential area upcoming with houses for families. It’s ideal for a family setup. It also has the potential to grow due to its hot market. The increase in house prices in Lahore is mainly influenced by the price of family houses. Lahore has many upper-class residents and seems like a serene place to reside hence the high market value.
+
+
+
 
