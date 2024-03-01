@@ -49,4 +49,4 @@ Lahore is a residential area upcoming with houses for families. It’s ideal for
 
 ![Avg Prices By City](https://github.com/datawithlusaka/house-prices/blob/main/Images/1.jpg)
 
-
+Due to its large area in Marla. The farmhouse is an expensive property and is the least in number. This also shows that most of the population is reluctant to settle on farms and would rather live in flats and residential buildings. The farmhouse is not a popular property in Pakistan and many people seem to be settling in houses in estates or Flats. The high price also seems to discourage people from getting one. It however has a much bigger area of around 80 Marla and is thus ideal for large families.
