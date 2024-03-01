@@ -83,7 +83,7 @@ The number of Bedrooms Increases the Price of the property. On average the Price
 •	The cheapest property is the room. It is also low in number.
 
 ### Final Dashboards
-![Dashboard](
+![Dashboard](https://github.com/datawithlusaka/house-prices/blob/main/Images/Dashboard.jpg)
 
 ### Recommendations
 •	The best property to invest in would be the family house as it is in high demand in the market.
