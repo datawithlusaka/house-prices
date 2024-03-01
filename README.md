@@ -47,6 +47,6 @@ This shows the number of non-family houses in the market. It is being a resident
 
 Lahore is a residential area upcoming with houses for families. It’s ideal for a family setup. It also has the potential to grow due to its hot market. The increase in house prices in Lahore is mainly influenced by the price of family houses. Lahore has many upper-class residents and seems like a serene place to reside hence the high market value.
 
-
+![Avg Prices By City](https://github.com/datawithlusaka/house-prices/blob/main/Images/1.jpg)
 
 
