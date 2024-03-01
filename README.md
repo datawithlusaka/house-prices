@@ -62,4 +62,23 @@ Most costly houses are 4,5 and 6-bedroom houses and seem to be in demand.
 ![Cost by bedrooms](https://github.com/datawithlusaka/house-prices/blob/main/Images/Cost_by_bedrooms.jpg)
 
 The number of Bedrooms Increases the Price of the property. On average the Price of the property has increased with the net increase in baths and bedrooms
-1![Bedrooms By Bathrooms](
+
+![Bedrooms By Bathrooms](https://github.com/datawithlusaka/house-prices/blob/main/Images/baths_by_bedroom.jpg)
+
+### Summary.
+•	Family houses are the most in the housing market with Lahore leading with 58.5% of the total number.
+
+•	Karachi, Lahore, and Islamabad are leading with most houses suggesting they are major cities in the country.
+
+•	Family Houses are the new hot properties in the market.
+
+•	Karachi and Islamabad are at the top of the list with high rental prices. It indicates that the housing market in these cities is in high demand and will grow for the foreseeable future.
+
+•	The Price of properties increases through the curve average with the increase in baths and bedrooms.
+
+•	The Farm House has the highest price to rent and buy throughout the cities.
+
+•	Majority of the houses are for sale (71.3%) with only 28.7% enlisted for renting.
+
+•	The cheapest property is the room. It is also low in number.
+
